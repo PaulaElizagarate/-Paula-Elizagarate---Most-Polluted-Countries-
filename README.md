@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo el conocer y analizar los países más contami
 
 Nuestras motivaciones para realizar este análisis son responder a ciertas preguntas como:
 
-*¿Hay características comunes entre los países más contaminados?
+*¿Hay características comunes entre los países más contaminados?*
 
 Para entender el análisis de datos realizado primero hay que conocer los ratios con los que hemos trabajado:
 
